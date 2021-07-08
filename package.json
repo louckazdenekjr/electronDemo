@@ -1,5 +1,5 @@
 {
-  "name": "electronDemo",
+  "name": "electrondemo",
   "version": "1.0.0",
   "description": "Demo project for Electron framework.",
   "main": "main.js",
@@ -9,12 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/louckazdenekjr/electronDemo"
+    "url": "git+https://github.com/louckazdenekjr/electronDemo.git"
   },
   "author": "Zdenek Loucka",
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/louckazdenekjr/electronDemo/issues"
   },
-  "homepage": "https://github.com/louckazdenekjr/electronDemo#readme"
+  "homepage": "https://github.com/louckazdenekjr/electronDemo#readme",
+  "devDependencies": {
+    "electron": "^13.1.6"
+  }
 }
