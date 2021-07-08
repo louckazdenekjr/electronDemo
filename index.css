@@ -1,0 +1,11 @@
+  body {
+    color:rgb(255, 255, 255);
+    background-color: '#161B22';
+    text-align: center;
+    transform: translate(0%, 250%);
+  }
+  
+  h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+  } 
